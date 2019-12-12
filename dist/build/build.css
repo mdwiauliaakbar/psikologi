@@ -427,6 +427,9 @@ th {
 html {
   box-sizing: border-box;
 }
+body {
+  backgroud-coler: #f00;
+}
 p,
 li {
   line-height: 1.6;
